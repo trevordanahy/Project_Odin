@@ -12,43 +12,43 @@
 
 ## <div><b>Web Dev 101</b></div>
 ### <ul><b>The Basics</b>
- - [ ] How This Course Will Work
- - [ ] Intro to Web Dev
- - [ ] Gearing Up
- - [ ] Join the Odin Community
- - [ ] How Does the Web Work
+ - [x] How This Course Will Work
+ - [x] Intro to Web Dev
+ - [x] Gearing Up
+ - [x] Join the Odin Community
+ - [x] How Does the Web Work
 </ul>
 
 ### <ul><b>Git Basics</b>
-- [ ] Intro to Git
-- [ ] Git Basics
-- [ ] Project: Practicing Git Basics
+- [x] Intro to Git
+- [x] Git Basics
+- [x] Project: Practicing Git Basics
 </ul>
 
 ### <ul><b>The Front End</b>
-- [ ] Intro to the Front End
-- [ ] HTML and CSS Basics
-- [ ] Developer Tools
-- [ ] Project: HTML/CSS (Google Homepage)
+- [x] Intro to the Front End
+- [x] HTML and CSS Basics
+- [x] Developer Tools
+- [x] Project: HTML/CSS (Google Homepage)
 </ul>
 
 ### <ul><b>Javascript Basics</b>
-- [ ] Fundamentals Part 1
-- [ ] Fundamentals Part 2
-- [ ] Developer Tools 2
-- [ ] Fundamentals Part 3
-- [ ] Project: Rock Paper Scissors
-- [ ] Clean Code
-- [ ] Fundamentals Part 4
-- [ ] DOM Manipulation
-- [ ] Project: Etch-a-Sketch
-- [ ] Fundamentals Part 5
+- [x] Fundamentals Part 1
+- [x] Fundamentals Part 2
+- [x] Developer Tools 2
+- [x] Fundamentals Part 3
+- [x] Project: Rock Paper Scissors
+- [x] Clean Code
+- [x] Fundamentals Part 4
+- [x] DOM Manipulation
+- [x] Project: Etch-a-Sketch
+- [x] Fundamentals Part 5
 - [ ] Project: Calculator
 </ul>
 
 ### <ul><b>The Back End</b>
-- [ ] Intro to the Back End
-- [ ] Intro to Framworks
+- [x] Intro to the Back End
+- [x] Intro to Framworks
 </ul>
 </section>
 
@@ -59,47 +59,47 @@
 ## <div><b>Python Programming</b></div>
 
 ### <ul><b>Basic Python</b>
-- [ ] Basic Data Types
-- [ ] Variables
-- [ ] Input and Output
-- [ ] Conditional Logic
-- [ ] Loops
-- [ ] Lists
-- [ ] Dictionaries
-- [ ] List Comprehension
-- [ ] Dict Comprehension
-- [ ] Functions
-- [ ] Debugging
-- [ ] Problem Solving
+- [x] Basic Data Types
+- [x] Variables
+- [x] Input and Output
+- [x] Conditional Logic
+- [x] Loops
+- [x] Lists
+- [x] Dictionaries
+- [x] List Comprehension
+- [x] Dict Comprehension
+- [x] Functions
+- [x] Debugging
+- [x] Problem Solving
 </ul>
 
 ### <ul><b>Basic Python Projects</b>
-- [ ] Project: Caesar Cipher
-- [ ] Project: Sub Strings
-- [ ] Project: Stock Picker
-- [ ] Project: Bubble Sort
+- [x] Project: Caesar Cipher
+- [x] Project: Sub Strings
+- [x] Project: Stock Picker
+- [x] Project: Bubble Sort
 </ul>
 
 ### <ul><b>Intermediate Python</b>
-- [ ] Object Oriented Programming
-- [ ] Project: OOP(Tic Tac Toe)
+- [x] Object Oriented Programming
+- [x] Project: OOP(Tic Tac Toe)
 - [ ] Project: OOP(Mastermind)
-- [ ] Files and Serialization
+- [x] Files and Serialization
 - [ ] Project: Event Manager
 - [ ] Project: File I/O & Serialization
 </ul>
 
 ### <ul><b>A Bit of Computer Science</b>
-- [ ] A very Brief Intro to CS
-- [ ] Recursive Methods
-- [ ] Project: Recursion(Knight Travalias)
-- [ ] Common Data Structures and Algorithms
-- [ ] Project: Linked Lists
-- [ ] Project: Data Structures & Algorithms
+- [x] A very Brief Intro to CS
+- [x] Recursive Methods
+- [x] Project: Recursion(Knight Travalias)
+- [x] Common Data Structures and Algorithms
+- [x] Project: Linked Lists
+- [x] Project: Data Structures & Algorithms
 </ul>
 
 ### <ul><b>Testing with Python</b>
-- [ ] Test Driven Development
+- [x] Test Driven Development
 - [ ] Unit Testing
 - [ ] Project: TDD(Write tests for Basic Python Projects above)
 - [ ] Project: TDD(Connect4)
@@ -111,7 +111,7 @@
 </ul>
 
 ### <ul><b>Final Python Project</b>
-- [ ] Python Final Project(Tafl Project)
+- [ ] Python Final Project(Tafl Project CLI)
 </ul>
 </section>
 
@@ -121,9 +121,9 @@
 
 ## <div><b>Databases</b></div>
 ### <ul><b>Databases</b>
- - [ ] Databases
- - [ ] Databases and SQL
- - [ ] Project: SQL
+ - [x] Databases
+ - [x] Databases and SQL
+ - [x] Project: SQL
  </ul>
  </section>
 
